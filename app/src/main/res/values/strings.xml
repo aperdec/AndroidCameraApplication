@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera Application</string>
+    <string name="settings_title">Settings</string>
+    <string name="first_name">First Name</string>
+    <string name="button_continue">Continue</string>
+    <string name="avatar">Avatar</string>
+</resources>
